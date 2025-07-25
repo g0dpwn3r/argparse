@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.12.4)
+cmake_minimum_required(VERSION 3.20)
 
 if(NOT DEFINED PROJECT_NAME)
   set(ARGPARSE_IS_TOP_LEVEL ON)
